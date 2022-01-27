@@ -1,6 +1,4 @@
-# ECOR 1051 MILESTONE #2
-# Group L1-2
-# Submission Date: Dec. 1 2019
+
 
 
 from L1_2_image_filters import *
