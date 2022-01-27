@@ -1,7 +1,7 @@
 
 
 
-from L1_2_image_filters import *
+from image_filters import *
 
 
 def _choosing_function() -> str:
